@@ -14,6 +14,6 @@ var demoFilePath = Path.GetFullPath("DemoFile");
 var results = TrIDEngine.GetExtensions(demoFilePath);
 
 Console.WriteLine($"file extension name: {results.FirstOrDefault().FileExt}");
-Console.WriteLine($"file type: {results.FirstOrDefault().FileExt}");
+Console.WriteLine($"file type: {results.FirstOrDefault().FileType}");
 
 Console.ReadLine();
