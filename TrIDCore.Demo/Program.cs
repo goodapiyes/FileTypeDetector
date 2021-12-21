@@ -13,6 +13,7 @@ var demoFilePath = Path.GetFullPath("DemoFile");
 //get results list,results are presented in order of highest probability.
 var results = TrIDEngine.GetExtensions(demoFilePath);
 
-Console.WriteLine(results.FirstOrDefault().FileExt);
+Console.WriteLine($"file extension name: {results.FirstOrDefault().FileExt}");
+Console.WriteLine($"file type: {results.FirstOrDefault().FileExt}");
 
 Console.ReadLine();

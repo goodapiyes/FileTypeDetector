@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualBasic;
+﻿//base on https://mark0.net/soft-trid-e.html
+using Microsoft.VisualBasic;
 using Microsoft.VisualBasic.CompilerServices;
 using System.Collections;
 using System.Xml;
