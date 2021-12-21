@@ -1,4 +1,4 @@
-TrIDCore
+FileTypeDetector-TrIDCore
 =================
 
 Base on TrIDEngine 
