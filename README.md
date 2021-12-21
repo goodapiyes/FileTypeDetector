@@ -1,7 +1,7 @@
 TrIDCore
 =================
 
-Base on TrIDEngine 
+Base on TrIDEngine Supports 1w types of file identification
 
 https://mark0.net/code-tridengine-e.html
 
