@@ -17,7 +17,7 @@ support automatic update of signature database(base on https://mark0.net)
 
 ```C#
 //auto-upgrade trid db From https://mark0.net/download/triddefs_xml.7z
-TrIDExtension.UpgradeDefinitions();
+//TrIDExtension.UpgradeDefinitions();
 
 var demoFilePath = Path.GetFullPath("DemoFile");
 
